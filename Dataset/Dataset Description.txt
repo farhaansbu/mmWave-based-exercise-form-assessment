@@ -1,0 +1,12 @@
+Ahmik (Person_A)- 62 good, 30 bad
+Farhaan (Person_B) - 60 good, 60 bad
+Joshua- (Person C) - 60 good, 59 bad
+Johnson- (Person D) - 59 good, 52 bad
+
+Jacked Guy 1 (Person E)- 9 reps, good (weight)
+Jacked Guy 2 (Person F)- 19 reps, good (weight)
+Random Guy 1 (Person G)- 20 reps, good (no weight)
+
+Total good: 289 (261 without weight, 28 with weight)
+Total bad: 201 bad
+
